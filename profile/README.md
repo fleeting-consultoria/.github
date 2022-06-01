@@ -3,33 +3,33 @@
 
 <h2>Projetos</h2>
 <ul>
-    <a href="https://github.com/fleeting-consultoria/mastermobility-backend">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/mastermobility-backend">
         <li>Backend - MM (Loopback) <img style="height: 20px; " src="https://seeklogo.com/images/L/loopback-logo-517982E646-seeklogo.com.png" />
         </li>
     </a>
-    <a href="https://github.com/fleeting-consultoria/mastermobility-crm">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/mastermobility-crm">
         <li>Frontend - MM (Angular) <img style="height: 20px; " src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" /></li>
     </a>
-    <a href="https://github.com/fleeting-consultoria/api-checklist">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/api-checklist">
         <li>API Checklist (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-    <a href="https://github.com/fleeting-consultoria/api-odometer">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/api-odometer">
         <li>API Odometer (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-    <a href="https://github.com/fleeting-consultoria/api-carsharing">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/api-carsharing">
         <li>API Carsharing (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-    <a href="https://github.com/fleeting-consultoria/painel-crm-back">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/painel-crm-back">
         <li>API Painel CRM (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-    <a href="https://github.com/fleeting-consultoria/painel-crm-back">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/painel-crm-back">
         <li>Frontend - Painel CRM (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
     </a>
 </ul>
 
 <h2>Templates</h2>
 <ul>
-    <a href="https://github.com/fleeting-consultoria/template-front">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/template-front">
         <li>Front (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
     </a>
 </ul>

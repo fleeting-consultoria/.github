@@ -16,22 +16,3 @@
 <ul>
     <li>Front (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
 </ul>
-
-## #Github Info:octocat:
-
-<p align="start">
-  <a href="https://github.com/fleeting-consultoria/">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=fleeting-consultoria&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
-    />
-  </a>
-  <a href="https://github.com/fleeting-consultoria/">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fleeting-consultoria&&layout=compact&theme=dark"
-    />
-  </a>
-</p>

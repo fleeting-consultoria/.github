@@ -4,7 +4,7 @@
 <h2>Projetos</h2>
 <ul>
     <li>Backend - MM (Loopback) <img style="height: 20px; margin-bottom: -5px;" src="https://seeklogo.com/images/L/loopback-logo-517982E646-seeklogo.com.png" /></li> 
-    <li>Frontend - MM (Angular) <img style="height: 20px; margin-bottom: -5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" /></li>
+    <li>Frontend - MM (Angular) <img style="height: 24px; margin-bottom: -5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" /></li>
     <li>API Checklist (Nest JS) <img style="height: 20px; margin-bottom: -5px;" src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     <li>API Odometer (Nest JS) <img style="height: 20px; margin-bottom: -5px;" src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     <li>API Carsharing (Nest JS) <img style="height: 20px; margin-bottom: -5px;" src="https://docs.nestjs.com/assets/logo-small.svg" /></li>

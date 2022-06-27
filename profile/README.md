@@ -22,14 +22,17 @@
     <a target="_blank" href="https://github.com/fleeting-consultoria/painel-crm-back">
         <li>API Painel CRM (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
-    <a target="_blank" href="https://github.com/fleeting-consultoria/painel-crm-back">
+    <a target="_blank" href="https://github.com/fleeting-consultoria/painel-crm-front">
         <li>Frontend - Painel CRM (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
     </a>
 </ul>
 
 <h2>Templates</h2>
 <ul>
-    <a target="_blank" href="https://github.com/fleeting-consultoria/template-front">
-        <li>Front (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
+    <a target="_blank" href="https://github.com/fleeting-consultoria/template-front-crm">
+        <li>Front Painel (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
+    </a>
+     <a target="_blank" href="https://github.com/fleeting-consultoria/template-front-mm">
+        <li>Front Master (Next JS) <img style="height: 20px; " src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></li>
     </a>
 </ul>

@@ -16,6 +16,9 @@
     <a target="_blank" href="https://github.com/fleeting-consultoria/api-maintenance-causality">
         <li>API Maintenance-Causality(Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
+      <a target="_blank" href="https://github.com/fleeting-consultoria/api-supply">
+        <li>API Supply(Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+    </a>
 <a target="_blank" href="https://github.com/fleeting-consultoria/api-dashboard">
         <li>API DashBoard(Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>

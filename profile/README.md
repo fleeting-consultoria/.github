@@ -10,6 +10,9 @@
     <a target="_blank" href="https://github.com/fleeting-consultoria/mastermobility-crm">
         <li>Frontend - MM (Angular) <img style="height: 20px; " src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" /></li>
     </a>
+     <a target="_blank" href="https://github.com/fleeting-consultoria/api-gateway">
+        <li>API GateWay (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+    </a>
     <a target="_blank" href="https://github.com/fleeting-consultoria/api-checklist">
         <li>API Checklist (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>

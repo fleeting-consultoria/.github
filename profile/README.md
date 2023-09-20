@@ -34,6 +34,9 @@
      <a target="_blank" href="https://github.com/fleeting-consultoria/api-telemetria">
         <li>API Telemetria (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
+      <a target="_blank" href="https://github.com/fleeting-consultoria/api-traffic-ticket">
+        <li>API Multas/CNH (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
+    </a>
     <a target="_blank" href="https://github.com/fleeting-consultoria/api-odometer">
         <li>API Odometer (Nest JS) <img style="height: 20px; " src="https://docs.nestjs.com/assets/logo-small.svg" /></li>
     </a>
